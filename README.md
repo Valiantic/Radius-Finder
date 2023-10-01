@@ -1,1 +1,1 @@
-# Radius-Finder
+# Basically it's just a program that lets you find the radius of the circle by giving the circumference. finding the circumference by giving the radius, and finding the area of the circle by giving the radius.
